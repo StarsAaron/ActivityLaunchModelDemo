@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ActivityLaunchModelDemo</string>
+    <string name="title_activity_2">Activity2</string>
+    <string name="title_activity_base">BaseActivity</string>
+</resources>
